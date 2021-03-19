@@ -1,4 +1,5 @@
 # angular-tasks
+
 1.Upload file and accept only its size is less than 1MB..If exceeds 1mb don’t accept
 
 2.Upload image and if image is greater than 5 MB compress to 50KB and then accept
@@ -44,13 +45,11 @@
     (Ex. select box value is one add father name , mother name ,occupation and all mandatory fileds. if select
 
     box value is two add all above fields and only father name is mandatory )
-
  
 
  2. Create a table with editable fields and provide  search for each field ?. apply validations for only
 
     selected  row fields.when submitting only selected row data only submitted  in angular?.
-
  
 
  3. Create table with add and remove  option for table rows.Each row contain three select box.
@@ -60,7 +59,6 @@
     third select box.when i am selecting one option slect box it is not showing in second select box
 
     and vis versa.if we select same options for two rows shows alert you choose duplicate data.
-
  
 
  4. Create 3 components header,sidebar, employee list component?.when clicking enable search button
@@ -68,7 +66,6 @@
     sidebar component display search box in herader component.based on header component search value
 
      fileter employee list in employee list component in angular ?.
-
  
 
  5. Create table in angular and display static json data. Each row contains check box for select row
@@ -76,7 +73,6 @@
     data and remove  button for removing row from table.when ever selecting  more than one row hide remove
 
     button of respective selected row and show multi removing button on the top of the table and vise versa.
-
  
 
  6. Create a components in angular.when ever i am move to another component show alert modal which contain
@@ -84,13 +80,11 @@
     alert message like "are you leaving this page" , ok and  cancel buttons. when i click on ok button
 
     leave the page.otherwise i stay on the same component.
-
  
 
  7. Show different layouts for different users which have different role when is login to site.Ex.admin,
 
     manager,team lead,employee.
-
  
 
  8. Create the sample project which full fill following topics. "The Components,routes and paths,
@@ -100,7 +94,6 @@
     Route resolvers,The routerLink directive (replaces the href attribute),Auxiliary routes,Primary
 
     and secondary router outlets" .
-
  
 
  9. How to send multipart  form data in a angular using reactive forms.(Form contains first name,lastname,
@@ -108,7 +101,6 @@
     email, password,confirm password, date of birth,profile image,temporary address,perment address,city,
 
     state,country, pincode,mobile number etc.).
-
  
 
  10.Implement stepper with next and previous button and also go required step by clicking on the step
